@@ -1,6 +1,0 @@
-CUSTOM-INSTALLER_00-0000000000000000,11,Coldboot-PSPx-1,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/Coldboot-PSPx-1.pkg,960736,eb601393d3aa4b6da893843716150168ebb7a4b5543657f74199ba06113320da 
-CUSTOM-INSTALLER_00-0000000000000000,11,Coldboot-PSPx-2,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/Coldboot-PSPx-2.pkg,949488,9b92a20614d8b4d2be09c6580c4110641c5773f98af88c3c991c8cc79d746c3d 
-CUSTOM-INSTALLER_00-0000000000000000,11,coldboot-v1,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/coldboot-v1.pkg,973520,a5859fc102b32accacb9d45ecf91510b78783ebe859597f2fdce495ca5bd88bb 
-CUSTOM-INSTALLER_00-0000000000000000,11,coldboot-v2,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/coldboot-v2.pkg,512112,a887eb71930ad5d4fbb43e5114e10c41ca7a4f838d8e9690af5b9a867736e5f9 
-CUSTOM-INSTALLER_00-0000000000000000,11,coldboot-v3,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/coldboot-v3.pkg,457024,e8f39f27c85c11128175804317383815cb9e9d4c2bb9f2c25652c7b135672ccc 
-CUSTOM-INSTALLER_00-0000000000000000,11,coolboot_standart,Logo and Sound on loading,,https://github.com/nikolaevich23/man/raw/master/Coldboot/coolboot_standart.pkg,52144,9d2223a6ed6d830b1ff7b85f30f2bbeb47ae1a78ce954679086df5192d5f4e27 
