@@ -1,0 +1,4 @@
+CUSTOM-INSTALLER_00-0000000000000000,11,ps3hen_icon-0,PS3 XMB,,https://github.com/nikolaevich23/man/raw/master/Coldboot/ps3hen_icon-0.pkg,15008,5b320f86dcde5233502d367e2702775af765908f7079c429b36005d931fc2f7a 
+CUSTOM-INSTALLER_00-0000000000000000,11,ps3hen_icon-old,PS3 XMB,,https://github.com/nikolaevich23/man/raw/master/Coldboot/ps3hen_icon-old.pkg,37744,1f908edbe10e27211c38a7b665acd6e3ff96e5f33c6adcde00f55033a75e0782 
+CUSTOM-INSTALLER_00-0000000000000000,11,ps3_xmb_new,PS3 XMB,,https://github.com/nikolaevich23/man/raw/master/Coldboot/ps3_xmb_new.pkg,4688,592a2619dcbba13ac2fd0e2abb65ac11c2975373f95b928e6f7b42c4eb55ae68 
+CUSTOM-INSTALLER_00-0000000000000000,11,ps3_xmb_standart,PS3 XMB,,https://github.com/nikolaevich23/man/raw/master/Coldboot/ps3_xmb_standart.pkg,1872,1f89da2c779d911e3f683cd5ca65ef273b3e9239e98cfd5b398d5dfbbffe0827 
