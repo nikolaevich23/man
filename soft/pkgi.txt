@@ -1,1 +1,0 @@
-CUSTOM-GCLOUDSTO_00-0000000000000000,10,Google_Cloud_Storage,Google Cloud Storage,,https://github.com/nikolaevich23/man/raw/master/soft/Google_Cloud_Storage.pkg,2349648,5f58d300a4cf92975796440a08ec140cb3ddd110b68a4ab337239226153059a4 
