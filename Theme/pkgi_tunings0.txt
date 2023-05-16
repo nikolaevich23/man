@@ -1,0 +1,1 @@
+CUSTOM-INSTALLER_00-0000000000000000,11,[Theme] theme_PS4_XMB_2.1,PS3 Theme,,https://github.com/nikolaevich23/man/raw/master/Theme/theme_PS4_XMB_2.1.pkg,1315792,ab8bdd96a123a68e88a37fead1c6118ccf304f1c9d31a4db9d90234d4b019f36
