@@ -9,10 +9,9 @@ for %%P in (*.pkg) do (
 	set /p sha=<sha.tmp
 rem	set sha=!sha: =!
  	set pr=%%P
-	set pr=!pr:~0,3!
+	set pr=!pr:~0,5!
 	echo !pr!
-	if !pr!==cfw echo CUSTOM-INSTALLER_00-0000000000000000,11,[Theme-CFW] %%~nP,PS3 Theme,,https://github.com/nikolaevich23/man/raw/master/Theme/%%P,!sz!,!sha!>>pkgi_tunings0.txt
-	if !pr!==hen echo CUSTOM-INSTALLER_00-0000000000000000,11,[Theme-HEN] %%~nP,PS3 Theme,,https://github.com/nikolaevich23/man/raw/master/Theme/%%P,!sz!,!sha!>>pkgi_tunings0.txt
+	if !pr!==theme echo CUSTOM-INSTALLER_00-0000000000000000,11,[Theme] %%~nP,PS3 Theme,,https://github.com/nikolaevich23/man/raw/master/Theme/%%P,!sz!,!sha!>>pkgi_tunings0.txt
 )
 
 del /q sha.tmp
